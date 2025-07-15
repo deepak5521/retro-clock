@@ -1,5 +1,4 @@
 # Retro Clock Design
-## [Watch it on youtube](https://youtu.be/034LwfhqVl8)
 ### Retro Clock Design
 
 - Analog & Digital Clock Using HTML CSS & JavaScript
